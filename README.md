@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tilde Notepad Launcher
 
 A simple AutoHotkey script that opens Notepad with a single keystroke of the tilde key ().
@@ -32,3 +33,7 @@ Just press the tilde key () - Notepad will open instantly.
 `bash
 # Using Ahk2Exe from AutoHotkey installation
 Ahk2Exe.exe /in "open_notepad-1.ahk" /out "open_notepad-1.exe"
+=======
+# tilda-notepad-launcher
+just opening a notepad by tilde
+>>>>>>> 294c0175caa6da59eb68f9d9929a9605642a216e
