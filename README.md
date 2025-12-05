@@ -37,3 +37,14 @@ Ahk2Exe.exe /in "open_notepad-1.ahk" /out "open_notepad-1.exe"
 # tilda-notepad-launcher
 just opening a notepad by tilde
 >>>>>>> 294c0175caa6da59eb68f9d9929a9605642a216e
+## ⚠️ Windows SmartScreen Warning
+
+Windows Defender SmartScreen may block the .exe because:
+- The file is new and not widely downloaded
+- It's compiled from AutoHotkey (often flagged)
+- It lacks expensive code signing certificate ($300+/year)
+
+The software is safe and open-source. You can:
+1. Click "More info" → "Run anyway"
+2. Review the source code in /src/
+3. Compile it yourself from source
